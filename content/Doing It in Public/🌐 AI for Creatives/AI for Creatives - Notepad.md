@@ -4,7 +4,10 @@ draft: false
 tags:
 ---
 ## Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
-## Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
+> Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
+
+## Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
+*Class Slides*: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
 
 - **1. Consciousness**
     
@@ -37,7 +40,7 @@ tags:
         - Is creativity important in AI?
 
 ---
-## Week 3 - Talked with Lawyer & Chat ITP
+## Week 3 - Talked with Lawyer & Chat ITP - Nov 5+7, 24
 
 ### In-Class Notes
 
