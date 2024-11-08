@@ -1,21 +1,22 @@
 ## Goal:
 Use AI image generator, [ChatGPT](https://chatgpt.com/), for images as inspiration for "recreating Ghibli world" -> My ideal environment art scene.
 
-## What is ChatGPT?
+## What is ChatGPT? DALL·E?
 - ChatGPT is an AI language model developed by OpenAI.
+- DALL·E is a type of image generation model developed by OpenAI that is capable of creating images from textual descriptions.
 ## What It’s For: → Problem solving
 - ChatGPT can assist with a wide range of tasks, including answering questions, providing explanations, generating creative content, and engaging in conversation.
-## Creative Application: → **Problem**
+## Creative Application: → Problem
 - My ideal environment art scene, for images as inspiration for "recreating Ghibli world".
 
 
 ## Experiments Process:
 1. Chat with ChatGPT for get inspirations for setting up my environment art scene
-2. I **feed in my screenshot** of Pinterest collection
+2. **IMG2IMG:** I **feed in my screenshot** of Pinterest collection
 	- ![|500](https://i.imgur.com/aDxTvUg.jpeg)
 
 3. The result I get
-	1. #1 First Image Result
+	1. #1 First Image Result 
 	- ![[DALL·E 2024-11-05 11.02.12 - A fantasy game scene inspired by lush, enchanted forests, featuring a vibrant path surrounded by glowing mushrooms and towering trees. The atmosphere .webp| 500]]
 	- Interestingly this is actually quite similar to the scene I made in UE5
 	- (I made the scene before I get the AI generated image)
@@ -25,7 +26,7 @@ Use AI image generator, [ChatGPT](https://chatgpt.com/), for images as inspirati
 		- 💡 Next Step: I wish I could use AI to create a 3D scene. 
 
 
-4. Feed in visual description to ChatGPT: 
+4. **TXT2IMG:*Feed in visual description to ChatGPT: 
 	1. **ME**: If I want to create a ghibli style environment art focused game scene what will you suggest?
 	2. **ChatGPT**: **Environmental Storytelling**: Ghibli scenes tell a story through objects and the placement of details. Add tiny “lived-in” touches like small furniture in the forest, hidden doorways, abandoned wells, or mystical markings to evoke curiosity.
 	3. **ME**: create an image for me: Ghibli style - Environmental Storytelling: Ghibli scenes tell a story through objects and the placement of details. Add tiny “lived-in” touches like small furniture in the forest, hidden doorways, abandoned wells, or mystical markings to evoke curiosity.
