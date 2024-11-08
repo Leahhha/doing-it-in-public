@@ -1,50 +1,49 @@
 ---
-title: W02
+title: AI for Creatives - Notepad
 draft: false
 tags:
 ---
-### Oct 29, 2024 - Lecture
+## Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
+## Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
 
-Class slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
+- **1. Consciousness**
+    
+    - **Human Consciousness**: awareness of self, free will
+    - Key points:
+        - Automatic reactions vs. self-awareness and having choices, or “free will”
+        - Daniel Dennett's _Dangerous Idea_ on AI autonomy and cultural values
+        - Do AIs have free will?
+    - Relevant questions:
+        - Can machines have consciousness?
+        - Do machines have the right to knowledge?
+        - Can we create consciousness for bots?
+
+- **2. Intelligence**
+    
+    - **AI = Intelligence on demand**: Ability to acquire and apply knowledge, measurable externally
+    - Key points:
+        - AI vs. AGI (Artificial General Intelligence)
+        - AGI has more autonomy, closer to human intelligence, while current AI operates within pre-set limits
+    - Relevant questions:
+        - How does autonomy in AGI differ from current AI systems?
+
+- **3. Creativity**
+    
+    - **Creativity** (definition): The use of imagination or original ideas in artistic works
+    - Key points:
+        - Inspiration → Creation → **Curation** (ability to integrate, editorial skills, aesthetic judgment)
+        - More accessibility: Allowing people to access skills they lack
+    - Relevant questions:
+        - Is creativity important in AI?
 
 ---
+## Week 3 - Talked with Lawyer & Chat ITP
 
-## 1. Consciousness
+### In-Class Notes
 
-- **Human Consciousness**: awareness of self, free will
-    - Automatic reactions vs. self-awareness and having choices, or “free will”
-- **Daniel Dennett** _Dangerous Idea_:
-    - Dangerous to give AI too much autonomy unless they can recognize cultural values.
-    - Do AIs have free will?
-- Questions to consider:
-    - **Machine consciousness**: Can matter be conscious?
-    - **Right to be informed**: Do machines have a right to knowledge?
-    - **Creating consciousness for bots**: Is it possible or ethical?
-
----
-
-## 2. Intelligence
-
-- **AI = Intelligence on demand**:
-    - Ability to acquire and apply knowledge, measurable externally
-- **AI vs. AGI (Artificial General Intelligence)**:
-    - **Autonomy**: AGI has more autonomy, closer to human intelligence, while current AI operates within pre-set limits.
-
----
-
-## 3. Creativity
-
-- **Creativity** (dictionary definition):
-    - The use of imagination or original ideas, especially in artistic works.
-- **Is creativity important?**
-    - Inspiration → Creation → **Curation** (ability to integrate everything, editorial skills, aesthetic judgment)
-- **More accessibility**:
-    - Filling in gaps where humans lack certain skills, providing people with easy access to creativity tools.
-
-4o mini
- 
- ## In Class Note
- How between different art form AI present it
-**Creative Biosphere**
-- let project interact with the project
-
+- **How AI Presents Itself Across Different Art Forms**
+    
+    - Exploration of AI's role and presentation in various art forms.
+- **Creative Biosphere**
+    
+    - Concept of letting the project interact with itself or its environment.
