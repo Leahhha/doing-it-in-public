@@ -3,9 +3,9 @@ Use AI image generator, [ChatGPT](https://chatgpt.com/), for images as inspirati
 
 ## What is ChatGPT?
 - ChatGPT is an AI language model developed by OpenAI.
-## What It’s For: -> Problem solving
+## What It’s For: → Problem solving
 - ChatGPT can assist with a wide range of tasks, including answering questions, providing explanations, generating creative content, and engaging in conversation.
-## Creative Application: -> Problem
+## Creative Application: → **Problem**
 - My ideal environment art scene, for images as inspiration for "recreating Ghibli world".
 
 
