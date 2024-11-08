@@ -12,6 +12,9 @@ tags:
 - **Thursday, 12/12** 
 	- **Final Project Presentation**
 
+**How the AI work for me?**
+**Agent:** take tasks and go on on its own (autonomous自主的)
+
 ---
 ## 2️⃣ - Consciousness, Intelligence, Creativity - Oct 29, 2024
 > Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
