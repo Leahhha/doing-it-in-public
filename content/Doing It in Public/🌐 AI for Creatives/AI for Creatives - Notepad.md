@@ -3,6 +3,16 @@ title: AI for Creatives - Notepad
 draft: false
 tags:
 ---
+## 1️⃣ - Intro
+
+- **Thursday, 11/14** 
+	- **Never Alone**: Presentation and Discussion of Student Work 
+- **Tuesday, 12/3** 
+	- **Letter to My Future**: Presentations and Discussion of Student Work 
+- **Thursday, 12/12** 
+	- **Final Project Presentation**
+
+---
 ## 2️⃣ - Consciousness, Intelligence, Creativity - Oct 29, 2024
 > Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
 
@@ -46,9 +56,3 @@ tags:
     - Concept of letting the project interact with itself or its environment.
 
 
-
-## 2️⃣ Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
-## 3️⃣ Week 3 - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
-
-## W 2️⃣ - Consciousness, Intelligence, Creativity - Oct 29, 2024
-## W 3️⃣  - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
