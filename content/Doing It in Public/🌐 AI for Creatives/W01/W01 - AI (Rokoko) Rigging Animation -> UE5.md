@@ -16,19 +16,25 @@
 
 
 ## Attempts:
-1. upload a figure skater's video (3D real life photo)
-2. 
-		I notice it is losing the motion details 
-			### Rokoko - AI auto rig
-			![[skater01.mov]]
-			### UE5 - Add the NPC Animation to the scene
-			![[rokokoUE5.mov]]
-		
-2. upload an animation (2D Character)
-			2D animation character - Micky Mouse
-			I chose this character for it has abstract motions.
-			As expected, Rokoko cannot recognize the motion correctly, not even 20%.
-			
+
+1. Upload a figure skater's video (3D real-life photo)
+   
+   I notice it is losing the motion details.
+
+   ### Rokoko - AI Auto Rig
+   ![[skater01.mov]]
+
+   ### UE5 - Add the NPC Animation to the Scene
+   ![[rokokoUE5.mov]]
+   
+2. Upload an animation (2D Character)
+
+   - **2D animation character** - Mickey Mouse  
+   I chose this character because it has abstract motions.
+   
+   - As expected, Rokoko cannot recognize the motion correctly, not even 20%.
+
+
 ## Next steps: 
 1. Find engaging short videos to incorporate into the NPC character interactions.
 2. Develop a method to attach animations to custominzed character model.
