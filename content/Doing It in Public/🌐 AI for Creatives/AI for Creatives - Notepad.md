@@ -3,7 +3,7 @@ title: AI for Creatives - Notepad
 draft: false
 tags:
 ---
-## Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
+## 2️⃣ - Consciousness, Intelligence, Creativity - Oct 29, 2024
 > Class Slides: [Consciousness, Intelligence, Creativity](https://docs.google.com/presentation/d/1yRoHfmqOTld1dwjNQsDdNNR4XmXRTelvtffB7AjXy24/edit?usp=sharing)
 
 - **1. Consciousness**
@@ -37,10 +37,18 @@ tags:
         - Is creativity important in AI?
 
 ---
-## Week 3 - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
+## 3️⃣ - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
 
 - **How AI Presents Itself Across Different Art Forms**
     - Exploration of AI's role and presentation in various art forms.
     
 - **Creative Biosphere**
     - Concept of letting the project interact with itself or its environment.
+
+
+
+## 2️⃣ Week 2 - Consciousness, Intelligence, Creativity - Oct 29, 2024
+## 3️⃣ Week 3 - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
+
+## W 2️⃣ - Consciousness, Intelligence, Creativity - Oct 29, 2024
+## W 3️⃣  - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
