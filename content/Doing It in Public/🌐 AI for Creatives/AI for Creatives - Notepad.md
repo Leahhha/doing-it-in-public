@@ -18,7 +18,6 @@ tags:
         - Do machines have the right to knowledge?
         - Can we create consciousness for bots?
 
-
 - **2. Intelligence**
     
     - **AI = Intelligence on demand**: Ability to acquire and apply knowledge, measurable externally
@@ -27,7 +26,6 @@ tags:
         - AGI has more autonomy, closer to human intelligence, while current AI operates within pre-set limits
     - Relevant questions:
         - How does autonomy in AGI differ from current AI systems?
-
 
 - **3. Creativity**
     
@@ -38,17 +36,11 @@ tags:
     - Relevant questions:
         - Is creativity important in AI?
 
-
 ---
-
-
-## Week 3 - Talk with Lawyer & Chat ITP - Nov 5+7, 24
-
-### In-Class Notes
+## Week 3 - Talk with Lawyer & Chat ITP - Nov 5+7, 2024
 
 - **How AI Presents Itself Across Different Art Forms**
-    
     - Exploration of AI's role and presentation in various art forms.
-- **Creative Biosphere**
     
+- **Creative Biosphere**
     - Concept of letting the project interact with itself or its environment.
