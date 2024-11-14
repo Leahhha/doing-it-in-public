@@ -58,4 +58,6 @@ tags:
 - **Creative Biosphere**
     - Concept of letting the project interact with itself or its environment.
 
-
+---
+## 4️⃣  - 
+Prompt: use lyrics
