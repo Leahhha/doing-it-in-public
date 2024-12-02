@@ -5,7 +5,7 @@ Use ChatGPT as both a mentor and creative companion, leveraging its knowledge fo
 ## Purpose: → Problem solving
 Transform intuitive "gut feelings" about art into clear, actionable descriptions.
 
-### **Challenges:**
+## **Challenges:**
 
 - **Artistic Intuition vs. Explanation:**  
     Often, I rely on intuition when appreciating an art piece but struggle to articulate _why_ or _how_ I connect with it.
@@ -70,9 +70,10 @@ How to Find More Inspiration:
     
     - With its towering bamboo, soft light filtering through the leaves, and serene pathways, this destination perfectly mirrors the calming and otherworldly vibe.
 3. [**Glowworm Caves, Waitomo, New Zealand**](https://geologyscience.com/gallery/geological-wonders/waitomo-glowworm-caves-new-zealand/)
-    ![[Waitomo-Glowworm-Caves-New-Zealand-2.webp | 500]]
-	![[hanging-glowworms-waitmoto-cave-new-zealand_3x2.avif|500]]
-    - The bioluminescent glowworms and serene underground rivers resemble many glowing, magical landscapes depicted in your mood board.
+	![|500](https://i.imgur.com/EPSxmQm.jpeg)
+	![|500](https://i.imgur.com/rOVXEHf.jpeg)
+
+- The bioluminescent glowworms and serene underground rivers resemble many glowing, magical landscapes depicted in your mood board.
 
 ChatGPT: Would you like suggestions on artists to follow or ways to organize your mood board for creative projects?
 
