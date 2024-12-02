@@ -1,9 +1,10 @@
-## My Final Project Proposal - Transforming Memories and Images into Art 🌐
+###### My Final Project Proposal 
+# Transforming Memories and Images into Art 🌐
 
 ### Concept
 
 The project explores how large language models (LLMs) can act as creative companions, helping artists reinterpret memories and images into unique forms of art. 
-By tapping into LLMs' capability to generate abstract or surreal interpretations, artists can experiment with new ways of transforming everyday visuals into complex, abstract, or "crazy" artwork, with options for users to explore travel suggestions inspired by their image submissions.
+By tapping into LLMs' capability to generate abstract or surreal interpretations, artists can experiment with new ways of ***transforming everyday visuals into complex, abstract, or "crazy" artwork***, with options for users to explore travel suggestions inspired by their image submissions.
 
 ---
 

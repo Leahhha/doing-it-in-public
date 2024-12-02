@@ -1,5 +1,5 @@
 ## Goal:
-Use AI image generator, [ChatGPT](https://chatgpt.com/), for images as inspiration for "recreating Ghibli world" -> My ideal environment art scene.
+Use AI image generator, [ChatGPT](https://chatgpt.com/), for images as inspiration for "recreating [Ghibli world](https://en.wikipedia.org/wiki/Studio_Ghibli)" -> My ideal environment art scene.
 
 ## What is ChatGPT? DALL·E?
 - ChatGPT is an AI language model developed by OpenAI.
