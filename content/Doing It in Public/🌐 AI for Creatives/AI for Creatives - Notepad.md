@@ -153,17 +153,4 @@ Fun thing to do: Try asking an image generator to create an image using a prompt
 	- 4. **[You.ai](https://you.com/?chatMode=custom)**
 	- 5. **[notebooklm](https://notebooklm.google/)**
 		- turn papers into listenable engaging conversation, normally 15-20min
-
----
-
-## 7️⃣ - 
-
-- Helpful AI tools: 
-	- 1. **[ltx.studio](https://ltx.studio/)**
-		- storyboarding, animation, inspiration
-	- 2. **[skybox ai](https://skybox.blockadelabs.com/)**
-		- Using text to generate skybox
-		
-- AI project: 
-	- 1. [fractura](https://www.uploadvr.com/rec-room-fractura-generative-ai-experiment/)
-		- Rec Room Built A World Using Generative AI Tools, And You Can Visit It
+	
